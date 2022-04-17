@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BervProject.FeatureFlag", "FeatureFlag\BervProject.FeatureFlag.csproj", "{A5DE8F2E-4701-42B9-9746-13976B9E35AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BervProject.FeatureFlag.Demo", "BervProject.FeatureFlag.Demo\BervProject.FeatureFlag.Demo.csproj", "{14417C18-F2A5-41E5-8CC6-7E55A04AD821}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5DE8F2E-4701-42B9-9746-13976B9E35AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5DE8F2E-4701-42B9-9746-13976B9E35AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5DE8F2E-4701-42B9-9746-13976B9E35AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5DE8F2E-4701-42B9-9746-13976B9E35AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14417C18-F2A5-41E5-8CC6-7E55A04AD821}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14417C18-F2A5-41E5-8CC6-7E55A04AD821}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14417C18-F2A5-41E5-8CC6-7E55A04AD821}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14417C18-F2A5-41E5-8CC6-7E55A04AD821}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CBBDA23-D577-44F2-B6F9-0430F0237034}
+	EndGlobalSection
+EndGlobal

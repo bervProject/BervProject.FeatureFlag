@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\FeatureFlag\BervProject.FeatureFlag.csproj" />
+    <ProjectReference Include="..\BervProject.FeatureFlag\BervProject.FeatureFlag.csproj" />
   </ItemGroup>
 
 </Project>

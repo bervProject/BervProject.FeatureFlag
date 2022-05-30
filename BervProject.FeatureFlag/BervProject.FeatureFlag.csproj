@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="AWSSDK.AppConfigData" Version="3.7.0.60" />
+    <PackageReference Include="AWSSDK.AppConfigData" Version="3.7.0.66" />
     <PackageReference Include="System.Text.Json" Version="6.0.4" />
   </ItemGroup>
 

@@ -2,6 +2,11 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>BervProject.FeatureFlag</PackageId>
+    <VersionPrefix>1.0.0</VersionPrefix>
+    <VersionSuffix>$(VersionSuffix)</VersionSuffix>
+    <Authors>Bervianto Leo Pratama</Authors>
+    <PackageDescription>Feature Flag for BervProject</PackageDescription>
   </PropertyGroup>
 
   <ItemGroup>

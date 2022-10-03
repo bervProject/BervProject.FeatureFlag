@@ -7,6 +7,7 @@
     <VersionSuffix>$(VersionSuffix)</VersionSuffix>
     <Authors>Bervianto Leo Pratama</Authors>
     <PackageDescription>Feature Flag for BervProject</PackageDescription>
+    <RepositoryUrl>https://github.com/bervProject/BervProject.FeatureFlag.git</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>

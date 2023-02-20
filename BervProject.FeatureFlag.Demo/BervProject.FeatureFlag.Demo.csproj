@@ -10,7 +10,7 @@
   <ItemGroup>
     <PackageReference Include="AWSSDK.AppConfigData" Version="3.7.100.72" />
     <PackageReference Include="AWSSDK.Extensions.NETCore.Setup" Version="3.7.3" />
-    <PackageReference Include="Microsoft.Extensions.Hosting" Version="7.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="7.0.1" />
   </ItemGroup>
 
   <ItemGroup>

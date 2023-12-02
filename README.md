@@ -1,6 +1,6 @@
 # BervProject.FeatureFlag
 
- Feature Flag use AWS AppConfig in .NET 
+Feature Flag use AWS AppConfig in .NET 
 
 ## LICENSE
 

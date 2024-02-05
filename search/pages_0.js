@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['bervproject_2efeatureflag_0',['BervProject.FeatureFlag',['../md_README.html',1,'']]]
+  ['bervproject_20featureflag_0',['BervProject.FeatureFlag',['../md_README.html',1,'']]]
 ];
